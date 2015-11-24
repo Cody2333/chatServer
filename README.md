@@ -4,7 +4,9 @@
 ##当前版本使用方式
 通过telnet连接服务器即可进行通信
 ##可用指令
-login<name>
-|command    |args     |function                   |
-|-----------|:-------:|------------------:        |
-|look       |none     |check the user in the room |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
