@@ -4,7 +4,9 @@
 ##当前版本使用方式
 通过telnet连接服务器即可进行通信,可通过telnet连接我的服务器尝试一下
 >host:www.cody.wang
+
 >port:5005
+
 ##可用指令
 
 | command       | args          | function  |
