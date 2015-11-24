@@ -5,8 +5,12 @@
 通过telnet连接服务器即可进行通信
 ##可用指令
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| command       | args          | function  |
+| ------------- |:-------------:| -----:    |
+| login         | login<name>   | login the server with the name       |
+| logout        | none          | logout the server     |
+| say           | say<message>  | send the message in the room      |
+| look          | none          | see the online users in the room      |
+| userls        | none          | see the online users on the server      |
+| roomls        | none          | see the existing rooms on the server      |
+| back          | none          | go back to the main room      |
