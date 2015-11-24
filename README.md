@@ -2,7 +2,9 @@
 这是一个用python写的简单的在线聊天程序。
 现在还在开发中，现在只能用命令行交互
 ##当前版本使用方式
-通过telnet连接服务器即可进行通信
+通过telnet连接服务器即可进行通信,可通过telnet连接我的服务器尝试一下
+>host:www.cody.wang
+>port:5005
 ##可用指令
 
 | command       | args          | function  |
