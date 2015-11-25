@@ -9,12 +9,13 @@
 
 ##可用指令
 
-| command       | args          | function  |
+| command       | args               | function  |
 | ------------- |:-------------:| -----:    |
-| login         | login<name>   | login the server with the name       |
+| login         | <name>   | login the server with the name       |
 | logout        | none          | logout the server     |
-| say           | say<message>  | send the message in the room      |
+| say           | <message>  | send the message in the room      |
 | look          | none          | see the online users in the room      |
 | userls        | none          | see the online users on the server      |
 | roomls        | none          | see the existing rooms on the server      |
 | back          | none          | go back to the main room      |
+| chatto        | <aname>  | chat to somebody in a private room      |
